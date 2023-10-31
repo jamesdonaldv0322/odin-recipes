@@ -1,0 +1,11 @@
+/* styles.css */
+
+body {
+    background-color: rgb(85, 193, 207);
+}
+ul {
+    font-size: larger;
+}
+li {
+    margin: 10px;
+}
